@@ -1,2 +1,3 @@
-# threejs
-learning threejs
+# threeJs
+
+three.js 学习记录
